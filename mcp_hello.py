@@ -1,0 +1,1 @@
+print("你好，GitHub！\n欢迎来到 mcp-test 仓库，这里是一个简单的 Python 问候程序。\nHave a nice day!") 
